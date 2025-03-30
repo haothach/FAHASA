@@ -40,3 +40,4 @@ C:\Users\DELL\Desktop\KTPM\DoAn_37_Hao_44_Nhan\UnitTest_37_Hao_44_Nhan\obj\Debug
 C:\Users\DELL\Desktop\KTPM\DoAn_37_Hao_44_Nhan\UnitTest_37_Hao_44_Nhan\obj\Debug\UnitTest.BACB325E.Up2Date
 C:\Users\DELL\Desktop\KTPM\DoAn_37_Hao_44_Nhan\UnitTest_37_Hao_44_Nhan\obj\Debug\UnitTest_37_Hao_44_Nhan.dll
 C:\Users\DELL\Desktop\KTPM\DoAn_37_Hao_44_Nhan\UnitTest_37_Hao_44_Nhan\obj\Debug\UnitTest_37_Hao_44_Nhan.pdb
+C:\Users\DELL\Desktop\KTPM\DoAn_37_Hao_44_Nhan\UnitTest_37_Hao_44_Nhan\bin\Debug\Data_37_Hao_44_Nhan\DangNhapThanhCong_TestData_37_Hao_44_Nhan.csv
